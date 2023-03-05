@@ -31,7 +31,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 Note: This license refers only to the Fortran binding, not to the 
       original libxlsxwriter4 library, which I use, but have not contributed to.
-      (The copyright of the original library is in the file LIICENSE-original.md)
+      (The copyright of the original library is in the file LIICENSE-original.txt)
       The fortran binding is also not a part of the original library.
       So all bugs in the binding are unrelated to the original authors
       of libxlsxwriter4.
